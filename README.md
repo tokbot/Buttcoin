@@ -29,7 +29,7 @@ You can send tokbot a private message with the following private commands:
 You can withdraw your Buttcoin to any ethereum wallet that supports ERC20 tokens. In order to do so you need to set up a watch contract in your wallet with the following info:
 
     Token address: 0x064f089a27e41fbbaacf6f4021ac3424398f966f
-    ABI: https://pastebin.com/raw/etbx2919
+    ABI: https://pastebin.com/raw/e5nGmVYz
 
 After setting up the watch contract, you'll need to confirm your withdrawal address with the tipbot. To do so, send a private message with the command 'confirm'
 
@@ -44,7 +44,7 @@ The small amount of ETH is used to cover the cost of the withdrawal transaction.
 If you aquire Buttcoin outside of reddit you can deposit them into your reddit tipbot account by interacting with the smart contract directly. To do so, first set up a watch contract for Buttcoin in your ethereum wallet using the following info:
 
     Token address: 0x064f089a27e41fbbaacf6f4021ac3424398f966f
-    ABI: https://pastebin.com/raw/etbx2919
+    ABI: https://pastebin.com/raw/e5nGmVYz
 
 Then use the Deposit function on the Buttcoin contract with your reddit name and the amount to deposit. Deposits will be processed periodically and will appear in your tipbot account when successfully confirmed.
 
